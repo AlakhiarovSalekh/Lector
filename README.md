@@ -28,7 +28,6 @@ Requires the Android SDK (set `sdk.dir` in a local `local.properties`, or `ANDRO
 Standard Gradle + Kotlin + Jetpack Compose; no proprietary dependencies.
 
 - Language: Kotlin · UI: Jetpack Compose · min SDK 26 · target SDK 35
-- The only third-party runtime dependency is [PdfBox-Android](https://github.com/TomRoush/PdfBox-Android)
   (Apache-2.0), for PDF text extraction.
 
 ## License
