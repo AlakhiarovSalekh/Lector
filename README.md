@@ -1,4 +1,4 @@
-# Lector
+# Lector — Offline Android PDF/EPUB Text-to-Speech Reader
 
 [![Android](https://img.shields.io/badge/Android-Offline%20Reader-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
