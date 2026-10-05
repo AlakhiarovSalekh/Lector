@@ -55,6 +55,12 @@ The Android SDK must be configured through `local.properties` (`sdk.dir`) or `AN
 
 Contributions are welcome, especially for accessibility, document compatibility, device support, translations, testing, and documentation.
 
+## More Projects by Salekh
+
+- [Notes App](https://github.com/AlakhiarovSalekh/Notes-App) — modern Kotlin/Compose notes application.
+- [Weather App](https://github.com/AlakhiarovSalekh/Weather-App) — Android weather app with local data and charts.
+- [Android Kotlin Bluetooth Chat App](https://github.com/AlakhiarovSalekh/Android-Kotlin-Bluetooth-Chat-App) — device-to-device Bluetooth chat.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
