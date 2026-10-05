@@ -55,6 +55,8 @@ The Android SDK must be configured through `local.properties` (`sdk.dir`) or `AN
 
 Contributions are welcome, especially for accessibility, document compatibility, device support, translations, testing, and documentation.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Notes App](https://github.com/AlakhiarovSalekh/Notes-App) — modern Kotlin/Compose notes application.
